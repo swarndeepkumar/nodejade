@@ -1,21 +1,8 @@
 body {
+  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: #f5f5dc;
 }
 
 a {
   color: #00B7FF;
-}
-.main{
-	width: 100%;
-}
-div.header span {
-	background-color: #FFF567;
-	
-	text-align: left;
-	
-}
-.header{
-	width:50%;
-	
 }
